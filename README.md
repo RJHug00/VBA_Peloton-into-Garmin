@@ -2,4 +2,4 @@ Microsoft 365 (nee MS Office) VBA logic to download a Peloton bike ride, convert
 
 Please refer to this repository's Wiki for detailed download and setup instructions.
 
-Ride on!
+**Ride on!**
